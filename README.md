@@ -71,8 +71,7 @@ Typography combines **Playfair Display** (for elegance) and **Inter** (for clari
 
 ## 🌍 Live Demo
 
-🔗 **[View on Vercel](https://your-demo-link.vercel.app)**
-*(Replace with your deployed link)*
+🔗 **[View on Vercel](https://ulamanclone.vercel.app/)**
 
 ---
 
